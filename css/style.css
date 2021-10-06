@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background-color:red ;
+    font-size: 20px;
+    padding: 10px;
+    margin: 0;
+}
+h1 {
+    background-color: blue;
+    border: white dashed;
+    color: black;
+    text-align:center;
+}
+h2 {
+    color: white;
+    text-align: center;
+    background-color: orange;
+    text-transform: uppercase;
+}
+p {
+    color: black;
+    border-style: dotted;
+    border-color:white ;
+    text-align: center    ;
+    font-family: sans-serif;
+}
+ul {
+    font-size: 40px;
+    line-height: 30px;
+}
